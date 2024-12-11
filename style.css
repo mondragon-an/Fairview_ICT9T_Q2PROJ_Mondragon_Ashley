@@ -1,0 +1,64 @@
+@font-face {
+    font-family: ballon;
+    src: url(ball.ttf);
+    }   
+ @font-face {
+    font-family: zb;
+    src: url(zb.otf);
+    }  
+@font-face {
+    font-family: zr;
+    src: url(zr.otf);
+    } 
+
+.nav-link{
+    font-family: zb;
+    font-size: 26px;
+    color: black;
+}
+.navbar{
+    background-color: #BDD3CE;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+label{
+    font-family: zb;
+    font-size: 22px;
+}
+input,select{
+    font-family: zr;
+    font-size: 34px;
+    border-radius: 15px;
+}
+textarea{
+    font-family: zr;
+    font-size: 22px;
+    border-radius: 15px;
+}
+body{
+    background-color: #ffffff ;
+}
+h4{
+    font-family: ballon;
+}
+img{
+    border: 5px black solid;
+    border-radius: 17px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+p{
+    font-family: zr;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+body{
+    text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);    
+}
+.btn{
+    background: #BDD3CE;
+    font-family: zb;
+    font-size: 22px;
+}
